@@ -16,14 +16,14 @@
   "custom-list": {
     ":items": {
       "custom-list-item": {
-        ":type": "line",
+        ":type": "line"
       }
     }
   },
   "blog-list": {
     ":items": {
       "blog-item": {
-        ":type": "line",
+        ":type": "line"
       }
     }
   }
