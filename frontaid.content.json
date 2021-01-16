@@ -12,23 +12,5 @@
     "custom-text": "custom object text"
   },
   "custom-field": "description",
-  "blog-list": [
-    {
-      "blog-item": {
-        "title": "tit 2",
-        "shortDescription": "desc 2"
-      },
-      "title": "blog one",
-      "shortDesc": "desc",
-      "image": "img",
-      "content": "<h1>heading</h1><p><strong>bold p</strong></p><ol><li><p>asd</p></li><li><p>asd</p></li><li><p>asd</p></li></ol><p>asdasd\n\n</p>",
-      "affiliateLink": "link"
-    },
-    {
-      "blog-item": {
-        "title": "title one",
-        "shortDescription": "description one"
-      }
-    }
-  ]
+  "blog-list": []
 }
