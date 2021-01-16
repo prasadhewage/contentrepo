@@ -1,1 +1,10 @@
-{}
+{
+  "custom-list": [
+    {
+      "custom-list-item": "item two"
+    },
+    {
+      "custom-list-item": "item one"
+    }
+  ]
+}
