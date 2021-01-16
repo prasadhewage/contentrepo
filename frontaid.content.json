@@ -11,5 +11,13 @@
     "custom-line": "object line",
     "custom-text": "custom object text"
   },
-  "custom-field": "description"
+  "custom-field": "description",
+  "blog-list": [
+    {
+      "blog-item": {
+        "title": "title one",
+        "shortDescription": "description one"
+      }
+    }
+  ]
 }
