@@ -6,5 +6,9 @@
     {
       "custom-list-item": "item one"
     }
-  ]
+  ],
+  "custom-object": {
+    "custom-line": "object line",
+    "custom-text": "custom object text"
+  }
 }
