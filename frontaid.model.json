@@ -22,10 +22,11 @@
   },
   "blog-list": {
     ":items": {
-      "blog-item": {
           "title": {":type": "line"},
-          "shortDescription": {":type": "line"}
-        }
+          "shortDesc": {":type": "line"},
+          "image": {":type": "line"},
+          "content": {":type": "text", ":richtext": true},
+          "affiliateLink": {":type": "line"}
       }
     }
 }
