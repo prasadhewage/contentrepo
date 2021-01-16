@@ -10,5 +10,6 @@
   "custom-object": {
     "custom-line": "object line",
     "custom-text": "custom object text"
-  }
+  },
+  "custom-field": "description"
 }
