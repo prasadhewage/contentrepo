@@ -17,6 +17,12 @@
     ":items": {
       "custom-list-item": {
         ":type": "line",
+      }
+    }
+  },
+  "blog-list": {
+    ":blogs": {
+      "blog-item": {
         ":type": "line",
       }
     }
