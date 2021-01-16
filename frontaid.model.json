@@ -21,7 +21,7 @@
     }
   },
   "blog-list": {
-    ":blogs": {
+    ":items": {
       "blog-item": {
         ":type": "line",
       }
