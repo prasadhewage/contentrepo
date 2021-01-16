@@ -14,6 +14,9 @@
   "custom-field": "description",
   "blog-list": [
     {
+      "title": "blog 3"
+    },
+    {
       "title": "post 2",
       "shortDesc": "desc",
       "image": "img",
