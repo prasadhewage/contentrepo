@@ -23,7 +23,10 @@
   "blog-list": {
     ":items": {
       "blog-item": {
-        ":type": "line"
+        {
+          ":title": {":type": "line"},
+          ":shortDescription": {":type": "line"}
+        }
       }
     }
   }
