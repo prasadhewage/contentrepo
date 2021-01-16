@@ -23,11 +23,9 @@
   "blog-list": {
     ":items": {
       "blog-item": {
-        {
           ":title": {":type": "line"},
           ":shortDescription": {":type": "line"}
         }
       }
     }
-  }
 }
