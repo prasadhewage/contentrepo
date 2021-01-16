@@ -12,5 +12,9 @@
     "custom-text": "custom object text"
   },
   "custom-field": "description",
-  "blog-list": []
+  "blog-list": [
+    {
+      "title": "title"
+    }
+  ]
 }
